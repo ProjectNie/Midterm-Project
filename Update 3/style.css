@@ -1,0 +1,11 @@
+body {
+  background: Black;
+}
+
+#canvas1 {
+  border: 2px DimGrey;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
